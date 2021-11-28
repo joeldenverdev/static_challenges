@@ -1,3 +1,6 @@
+Note: I couldn't get the side pictures to be next to the main picture so I submitted the version that is closest. 
+
+
 # Static Comp Challenges
 
 This repository includes an `index.html` file that links to two CSS files:
